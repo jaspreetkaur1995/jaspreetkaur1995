@@ -1,4 +1,4 @@
-## Jaspreet Kaur - Quality Engineerig Lead
+## Jaspreet Kaur - Quality Engineering Lead
 
 Welcome to my GitHub portfolio! I'm Jaspreet Kaur, a Quality Engineering Lead with a passion for building robust, scalable, and maintainable test automation solutions. I specialize in Java-based frameworks, API testing, CI/CD integration, and performance testing.
 
